@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola, I'm Anuj Kumar Dwivedi 👋
 
-<!--
-**Anujk101/Anujk101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Test Engineer Professional!!
+- 🌱 I’m currently learning DevOps
+- 🤔 I’m looking for help with DevOps things
+- ⚡ Fun fact: I love to ride bike and playing cricket
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages & Tools
+
+
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujk101&show_icons=true&theme=radical)](https://github.com/Anujk101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujk101&show_icons=true&theme=radical)](https://github.com/Anujk101/github-readme-stats)
